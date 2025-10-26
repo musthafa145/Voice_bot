@@ -1,0 +1,8 @@
+google-genai>=1.0.0
+google-cloud-speech>=2.27.0
+fastmcp>=2.0.0
+gtts>=2.5.0
+pyaudio>=0.2.14
+webrtcvad>=2.0.10
+python-dotenv>=1.0.0
+pydub>=0.25.1

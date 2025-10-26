@@ -1,0 +1,113 @@
+{
+  "store_info": {
+    "name": "MYG Kerala",
+    "type": "Electronics Retail Store",
+    "location": "Kerala, India",
+    "specialization": "Consumer Electronics, Home Appliances, Mobile Devices"
+  },
+  "categories": [
+    "televisions",
+    "mobile_phones",
+    "laptops",
+    "home_appliances",
+    "audio_systems",
+    "cameras",
+    "gaming",
+    "accessories"
+  ],
+  "products": [
+    {
+      "id": "TV001",
+      "name": "Samsung 55\" 4K QLED Smart TV",
+      "category": "televisions",
+      "brand": "Samsung",
+      "price": 64999,
+      "original_price": 74999,
+      "discount": 13,
+      "stock": 15,
+      "description": "55-inch QLED display with 4K resolution, HDR10+, Smart TV features, built-in Alexa",
+      "features": ["4K QLED", "HDR10+", "Smart TV", "Alexa Built-in", "3 HDMI Ports"],
+      "warranty": "2 years comprehensive warranty",
+      "in_stock": true
+    },
+    {
+      "id": "TV002",
+      "name": "LG 43\" Full HD Smart LED TV",
+      "category": "televisions",
+      "brand": "LG",
+      "price": 28999,
+      "original_price": 32999,
+      "discount": 12,
+      "stock": 22,
+      "description": "43-inch Full HD LED TV with WebOS, built-in WiFi, screen mirroring",
+      "features": ["Full HD", "WebOS", "WiFi", "Screen Mirroring", "Magic Remote"],
+      "warranty": "1 year comprehensive warranty",
+      "in_stock": true
+    },
+    {
+      "id": "MP001",
+      "name": "iPhone 15 Pro 256GB",
+      "category": "mobile_phones",
+      "brand": "Apple",
+      "price": 134999,
+      "original_price": 134999,
+      "discount": 0,
+      "stock": 8,
+      "description": "Latest iPhone with A17 Pro chip, titanium design, 48MP camera",
+      "features": ["A17 Pro Chip", "48MP Camera", "Titanium Body", "USB-C"],
+      "warranty": "1 year Apple warranty",
+      "in_stock": true
+    },
+    {
+      "id": "MP002",
+      "name": "Samsung Galaxy S24 Ultra 512GB",
+      "category": "mobile_phones",
+      "brand": "Samsung",
+      "price": 129999,
+      "original_price": 139999,
+      "discount": 7,
+      "stock": 12,
+      "description": "Flagship Samsung with 200MP camera, S-Pen, Snapdragon 8 Gen 3",
+      "features": ["200MP Camera", "S-Pen", "Snapdragon 8 Gen 3", "5000mAh"],
+      "warranty": "1 year Samsung warranty",
+      "in_stock": true
+    },
+    {
+      "id": "LP001",
+      "name": "MacBook Air M3 13\" 256GB",
+      "category": "laptops",
+      "brand": "Apple",
+      "price": 114990,
+      "original_price": 114990,
+      "discount": 0,
+      "stock": 6,
+      "description": "Latest MacBook Air with M3 chip, 18-hour battery",
+      "features": ["M3 Chip", "8GB RAM", "256GB SSD", "18hr Battery"],
+      "warranty": "1 year Apple warranty",
+      "in_stock": true
+    },
+    {
+      "id": "LP002",
+      "name": "HP Pavilion Gaming Ryzen 7 16GB",
+      "category": "laptops",
+      "brand": "HP",
+      "price": 74999,
+      "original_price": 84999,
+      "discount": 12,
+      "stock": 10,
+      "description": "Gaming laptop with AMD Ryzen 7, NVIDIA RTX 3050",
+      "features": ["Ryzen 7", "16GB RAM", "RTX 3050", "144Hz Display"],
+      "warranty": "1 year HP warranty",
+      "in_stock": true
+    }
+  ],
+  "active_offers": [
+    {
+      "offer_id": "OFF001",
+      "title": "Diwali Festival Sale",
+      "description": "Up to 40% off on select products",
+      "valid_until": "2025-11-05",
+      "applicable_categories": ["televisions", "mobile_phones"]
+    }
+  ]
+}

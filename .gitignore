@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+malayalamspeechtest-080e845e78d0.json
+credentials.json
+*.log
+.DS_Store
+.idea/
+.vscode/

@@ -1,0 +1,301 @@
+product_id,product_name,category,brand,price,features,highlights,stock_status
+1,Realme Tablet 788,Tablet,Realme,79369,"Snapdragon 8 Gen 2, 11-inch AMOLED display",New arrival,In stock
+2,MSI Laptop 439,Laptop,MSI,142168,"i5 12th Gen, 8GB RAM, 512GB SSD",Limited stock,In stock
+3,Xiaomi Tablet 574,Tablet,Xiaomi,46478,"Helio G99, 10.5-inch LCD, long battery life",High performance,In stock
+4,Zebronics Speaker 832,Speaker,Zebronics,2583,"Bluetooth 5.0, 10W output, waterproof",Customer favorite,In stock
+5,Realme Headphone 154,Headphone,Realme,7455,"Bluetooth 5.2, 40-hour battery",Customer favorite,In stock
+6,Asus Laptop 728,Laptop,Asus,125765,"Touchscreen, Backlit keyboard, Fingerprint sensor",Value for money,In stock
+7,Realme Tablet 665,Tablet,Realme,85116,"Apple M2 chip, 12.9-inch Retina display",High performance,Out of stock
+8,Lenovo Laptop 313,Laptop,Lenovo,159176,"i3 11th Gen, 8GB RAM, 256GB SSD",Customer favorite,In stock
+9,Oppo Mobile 274,Mobile,Oppo,56259,"90Hz display, AI camera, long battery life",Limited stock,In stock
+10,Lenovo Laptop 688,Laptop,Lenovo,62125,"Ryzen 5, 8GB RAM, 512GB SSD",Value for money,In stock
+11,Zebronics Speaker 295,Speaker,Zebronics,12828,"Smart assistant enabled, 360° sound",Value for money,In stock
+12,Zebronics Speaker 560,Speaker,Zebronics,6131,"Smart assistant enabled, 360° sound",Limited stock,In stock
+13,Boat Speaker 705,Speaker,Boat,7750,"Bluetooth 5.0, 10W output, waterproof",New arrival,In stock
+14,Realme Headphone 773,Headphone,Realme,2285,"Lightweight, Sweat resistant",High performance,In stock
+15,Apple Tablet 387,Tablet,Apple,81180,"Apple M2 chip, 12.9-inch Retina display",Value for money,In stock
+16,JBL Headphone 453,Headphone,JBL,9939,"Deep bass, Mic support, Fast charging",Customer favorite,In stock
+17,Sony Speaker 976,Speaker,Sony,3537,"Smart assistant enabled, 360° sound",Popular model,In stock
+18,Apple Tablet 933,Tablet,Apple,29666,"Snapdragon 8 Gen 2, 11-inch AMOLED display",Customer favorite,In stock
+19,Apple Tablet 371,Tablet,Apple,41872,"Helio G99, 10.5-inch LCD, long battery life",New arrival,In stock
+20,JBL Headphone 903,Headphone,JBL,4430,"Lightweight, Sweat resistant",Popular model,In stock
+21,Sony Headphone 392,Headphone,Sony,9621,"Noise cancellation, Foldable design",Limited stock,In stock
+22,Apple Tablet 201,Tablet,Apple,51049,"Apple M2 chip, 12.9-inch Retina display",Popular model,Out of stock
+23,Asus Laptop 562,Laptop,Asus,73366,"i3 11th Gen, 8GB RAM, 256GB SSD",High performance,In stock
+24,Apple Mobile 133,Mobile,Apple,62006,"12GB RAM, 256GB storage, 200MP camera",Customer favorite,In stock
+25,Realme Headphone 867,Headphone,Realme,3618,"Lightweight, Sweat resistant",Customer favorite,In stock
+26,Asus Laptop 604,Laptop,Asus,65262,"i5 12th Gen, 8GB RAM, 512GB SSD",Popular model,In stock
+27,Apple Tablet 975,Tablet,Apple,16865,"S-Pen support, Dolby Atmos speakers",Best seller,In stock
+28,Realme Tablet 224,Tablet,Realme,36073,"Apple M2 chip, 12.9-inch Retina display",Customer favorite,In stock
+29,Oppo Mobile 479,Mobile,Oppo,39569,"90Hz display, AI camera, long battery life",Limited stock,In stock
+30,Sony Headphone 500,Headphone,Sony,1241,"Dual pairing, Voice assistant compatible",Customer favorite,In stock
+31,Apple Tablet 162,Tablet,Apple,87476,"8GB RAM, 128GB storage, 13MP rear camera",Popular model,In stock
+32,Asus Laptop 651,Laptop,Asus,67022,"Touchscreen, Backlit keyboard, Fingerprint sensor",Best seller,In stock
+33,Realme Tablet 783,Tablet,Realme,50829,"S-Pen support, Dolby Atmos speakers",Limited stock,In stock
+34,Apple Mobile 343,Mobile,Apple,42574,"6GB RAM, 64GB storage, 5000mAh battery",High performance,In stock
+35,Realme Mobile 909,Mobile,Realme,39425,"8GB RAM, 128GB storage, 50MP camera",Popular model,In stock
+36,Boat Speaker 484,Speaker,Boat,7927,"Bluetooth 5.0, 10W output, waterproof",Customer favorite,In stock
+37,Lenovo Laptop 315,Laptop,Lenovo,122463,"i7 13th Gen, 16GB RAM, 1TB SSD, RTX 3050",High performance,In stock
+38,Apple Tablet 903,Tablet,Apple,28683,"Helio G99, 10.5-inch LCD, long battery life",Customer favorite,In stock
+39,Realme Tablet 546,Tablet,Realme,68194,"S-Pen support, Dolby Atmos speakers",High performance,Out of stock
+40,Apple Tablet 572,Tablet,Apple,31393,"S-Pen support, Dolby Atmos speakers",Limited stock,In stock
+41,OnePlus Mobile 480,Mobile,OnePlus,61832,"Snapdragon 7 Gen 1, 80W fast charging",New arrival,In stock
+42,Vivo Mobile 620,Mobile,Vivo,32652,"Snapdragon 7 Gen 1, 80W fast charging",New arrival,In stock
+43,Apple Tablet 838,Tablet,Apple,74514,"Apple M2 chip, 12.9-inch Retina display",Limited stock,In stock
+44,Realme Tablet 388,Tablet,Realme,52160,"Helio G99, 10.5-inch LCD, long battery life",Value for money,In stock
+45,OnePlus Mobile 710,Mobile,OnePlus,18539,"6GB RAM, 64GB storage, 5000mAh battery",Customer favorite,Out of stock
+46,Dell Laptop 711,Laptop,Dell,82865,"Touchscreen, Backlit keyboard, Fingerprint sensor",Popular model,In stock
+47,Samsung Tablet 466,Tablet,Samsung,81275,"8GB RAM, 128GB storage, 13MP rear camera",Customer favorite,In stock
+48,JBL Speaker 716,Speaker,JBL,14258,"Portable, 12-hour playtime, bass boost",Best seller,In stock
+49,JBL Headphone 683,Headphone,JBL,1556,"Noise cancellation, Foldable design",Popular model,In stock
+50,Lenovo Laptop 440,Laptop,Lenovo,155045,"i7 13th Gen, 16GB RAM, 1TB SSD, RTX 3050",Best seller,In stock
+51,Lenovo Tablet 430,Tablet,Lenovo,89254,"S-Pen support, Dolby Atmos speakers",Value for money,In stock
+52,Sony Speaker 912,Speaker,Sony,12493,"20W stereo output, splash resistant",Customer favorite,In stock
+53,Redmi Mobile 752,Mobile,Redmi,30076,"8GB RAM, 128GB storage, AMOLED display",Best seller,In stock
+54,Redmi Mobile 132,Mobile,Redmi,74875,"Snapdragon 7 Gen 1, 80W fast charging",Customer favorite,In stock
+55,Zebronics Headphone 526,Headphone,Zebronics,8093,"Noise cancellation, Foldable design",Popular model,In stock
+56,MSI Laptop 566,Laptop,MSI,101145,"i5 12th Gen, 8GB RAM, 512GB SSD",Popular model,Out of stock
+57,Samsung Mobile 790,Mobile,Samsung,28850,"6GB RAM, 64GB storage, 5000mAh battery",Best seller,In stock
+58,Dell Laptop 647,Laptop,Dell,95278,"i3 11th Gen, 8GB RAM, 256GB SSD",Popular model,In stock
+59,JBL Speaker 894,Speaker,JBL,12894,"Bluetooth 5.0, 10W output, waterproof",Limited stock,In stock
+60,Boat Speaker 190,Speaker,Boat,12216,"20W stereo output, splash resistant",Customer favorite,In stock
+61,Lenovo Laptop 512,Laptop,Lenovo,116155,"Ryzen 5, 8GB RAM, 512GB SSD",Best seller,In stock
+62,Boat Headphone 260,Headphone,Boat,7599,"Lightweight, Sweat resistant",Customer favorite,In stock
+63,Vivo Mobile 873,Mobile,Vivo,85166,"6GB RAM, 64GB storage, 5000mAh battery",Best seller,In stock
+64,Acer Laptop 780,Laptop,Acer,76048,"i7 13th Gen, 16GB RAM, 1TB SSD, RTX 3050",High performance,In stock
+65,Realme Headphone 672,Headphone,Realme,1069,"Noise cancellation, Foldable design",Limited stock,In stock
+66,Realme Mobile 224,Mobile,Realme,85957,"8GB RAM, 128GB storage, 50MP camera",Best seller,In stock
+67,Boat Speaker 987,Speaker,Boat,2413,"Smart assistant enabled, 360° sound",Best seller,In stock
+68,Lenovo Tablet 497,Tablet,Lenovo,86709,"8GB RAM, 128GB storage, 13MP rear camera",Value for money,In stock
+69,JBL Headphone 506,Headphone,JBL,7919,"Deep bass, Mic support, Fast charging",Limited stock,Out of stock
+70,Sony Speaker 181,Speaker,Sony,6753,"Smart assistant enabled, 360° sound",Limited stock,In stock
+71,Samsung Tablet 985,Tablet,Samsung,24926,"Helio G99, 10.5-inch LCD, long battery life",Popular model,In stock
+72,Boat Headphone 662,Headphone,Boat,4294,"Deep bass, Mic support, Fast charging",New arrival,In stock
+73,Zebronics Headphone 379,Headphone,Zebronics,4840,"Lightweight, Sweat resistant",Best seller,In stock
+74,Zebronics Headphone 166,Headphone,Zebronics,8010,"Noise cancellation, Foldable design",Best seller,In stock
+75,Apple Laptop 497,Laptop,Apple,48570,"Touchscreen, Backlit keyboard, Fingerprint sensor",High performance,In stock
+76,Realme Tablet 622,Tablet,Realme,19708,"S-Pen support, Dolby Atmos speakers",Limited stock,In stock
+77,Lenovo Tablet 903,Tablet,Lenovo,24939,"Apple M2 chip, 12.9-inch Retina display",Best seller,In stock
+78,Oppo Mobile 837,Mobile,Oppo,83868,"Snapdragon 7 Gen 1, 80W fast charging",Value for money,In stock
+79,Xiaomi Tablet 254,Tablet,Xiaomi,33625,"8GB RAM, 128GB storage, 13MP rear camera",New arrival,In stock
+80,Apple Mobile 228,Mobile,Apple,73907,"12GB RAM, 256GB storage, 200MP camera",Customer favorite,In stock
+81,Lenovo Tablet 361,Tablet,Lenovo,46314,"Apple M2 chip, 12.9-inch Retina display",Popular model,In stock
+82,Zebronics Headphone 293,Headphone,Zebronics,1716,"Dual pairing, Voice assistant compatible",Value for money,In stock
+83,Realme Headphone 434,Headphone,Realme,7102,"Lightweight, Sweat resistant",Popular model,In stock
+84,HP Laptop 541,Laptop,HP,139480,"Ryzen 5, 8GB RAM, 512GB SSD",Customer favorite,Out of stock
+85,Zebronics Headphone 423,Headphone,Zebronics,6379,"Deep bass, Mic support, Fast charging",Value for money,Out of stock
+86,Lenovo Laptop 350,Laptop,Lenovo,147189,"i9, 32GB RAM, RTX 4060, 1TB SSD",Limited stock,In stock
+87,Realme Mobile 653,Mobile,Realme,15900,"8GB RAM, 128GB storage, AMOLED display",Popular model,In stock
+88,Lenovo Tablet 684,Tablet,Lenovo,94199,"S-Pen support, Dolby Atmos speakers",Customer favorite,In stock
+89,Xiaomi Tablet 314,Tablet,Xiaomi,29935,"S-Pen support, Dolby Atmos speakers",Popular model,In stock
+90,Lenovo Tablet 800,Tablet,Lenovo,49845,"Helio G99, 10.5-inch LCD, long battery life",Value for money,In stock
+91,JBL Speaker 571,Speaker,JBL,13714,"Bluetooth 5.0, 10W output, waterproof",Best seller,In stock
+92,Boat Speaker 380,Speaker,Boat,6839,"Smart assistant enabled, 360° sound",Limited stock,In stock
+93,Sony Headphone 315,Headphone,Sony,9950,"Dual pairing, Voice assistant compatible",Best seller,In stock
+94,HP Laptop 774,Laptop,HP,97410,"i3 11th Gen, 8GB RAM, 256GB SSD",New arrival,In stock
+95,Realme Tablet 343,Tablet,Realme,15969,"Helio G99, 10.5-inch LCD, long battery life",Best seller,In stock
+96,Zebronics Headphone 621,Headphone,Zebronics,9159,"Dual pairing, Voice assistant compatible",Customer favorite,In stock
+97,Lenovo Laptop 923,Laptop,Lenovo,36353,"i7 13th Gen, 16GB RAM, 1TB SSD, RTX 3050",Best seller,In stock
+98,Apple Mobile 483,Mobile,Apple,65723,"Snapdragon 7 Gen 1, 80W fast charging",Value for money,In stock
+99,HP Laptop 166,Laptop,HP,144475,"i7 13th Gen, 16GB RAM, 1TB SSD, RTX 3050",Best seller,In stock
+100,Sony Speaker 949,Speaker,Sony,14554,"Smart assistant enabled, 360° sound",Limited stock,Out of stock
+101,Samsung Mobile 363,Mobile,Samsung,33018,"12GB RAM, 256GB storage, 200MP camera",Best seller,In stock
+102,Boat Speaker 151,Speaker,Boat,3327,"20W stereo output, splash resistant",New arrival,Out of stock
+103,Samsung Mobile 176,Mobile,Samsung,35889,"Snapdragon 7 Gen 1, 80W fast charging",Best seller,In stock
+104,Apple Laptop 703,Laptop,Apple,124727,"i3 11th Gen, 8GB RAM, 256GB SSD",Best seller,In stock
+105,Samsung Tablet 230,Tablet,Samsung,28660,"Helio G99, 10.5-inch LCD, long battery life",Customer favorite,In stock
+106,Apple Tablet 546,Tablet,Apple,63882,"8GB RAM, 128GB storage, 13MP rear camera",New arrival,In stock
+107,Dell Laptop 671,Laptop,Dell,78129,"i5 12th Gen, 8GB RAM, 512GB SSD",Value for money,In stock
+108,JBL Speaker 783,Speaker,JBL,9331,"Portable, 12-hour playtime, bass boost",Popular model,In stock
+109,Sony Headphone 468,Headphone,Sony,5189,"Bluetooth 5.2, 40-hour battery",High performance,In stock
+110,Lenovo Laptop 479,Laptop,Lenovo,155422,"i9, 32GB RAM, RTX 4060, 1TB SSD",Best seller,In stock
+111,Boat Headphone 686,Headphone,Boat,8346,"Lightweight, Sweat resistant",Value for money,In stock
+112,Lenovo Tablet 595,Tablet,Lenovo,17847,"Apple M2 chip, 12.9-inch Retina display",Value for money,In stock
+113,Dell Laptop 709,Laptop,Dell,100182,"Touchscreen, Backlit keyboard, Fingerprint sensor",Popular model,In stock
+114,Redmi Mobile 197,Mobile,Redmi,20688,"6GB RAM, 64GB storage, 5000mAh battery",Popular model,In stock
+115,OnePlus Mobile 864,Mobile,OnePlus,61873,"8GB RAM, 128GB storage, 50MP camera",Limited stock,In stock
+116,Oppo Mobile 964,Mobile,Oppo,60249,"Snapdragon 7 Gen 1, 80W fast charging",High performance,Out of stock
+117,Boat Headphone 829,Headphone,Boat,7622,"Deep bass, Mic support, Fast charging",New arrival,In stock
+118,Samsung Tablet 250,Tablet,Samsung,79298,"8GB RAM, 128GB storage, 13MP rear camera",Limited stock,In stock
+119,Zebronics Speaker 658,Speaker,Zebronics,3062,"Smart assistant enabled, 360° sound",Customer favorite,Out of stock
+120,Asus Laptop 361,Laptop,Asus,130988,"i9, 32GB RAM, RTX 4060, 1TB SSD",Limited stock,In stock
+121,Apple Tablet 825,Tablet,Apple,57759,"8GB RAM, 128GB storage, 13MP rear camera",Popular model,In stock
+122,Sony Speaker 757,Speaker,Sony,11145,"Smart assistant enabled, 360° sound",Best seller,In stock
+123,MSI Laptop 543,Laptop,MSI,77278,"i9, 32GB RAM, RTX 4060, 1TB SSD",Best seller,In stock
+124,Vivo Mobile 352,Mobile,Vivo,25301,"8GB RAM, 128GB storage, 50MP camera",High performance,In stock
+125,Apple Tablet 568,Tablet,Apple,66988,"S-Pen support, Dolby Atmos speakers",New arrival,In stock
+126,Lenovo Laptop 116,Laptop,Lenovo,149944,"i3 11th Gen, 8GB RAM, 256GB SSD",High performance,In stock
+127,Realme Headphone 110,Headphone,Realme,3534,"Noise cancellation, Foldable design",High performance,In stock
+128,Lenovo Tablet 104,Tablet,Lenovo,15071,"S-Pen support, Dolby Atmos speakers",Customer favorite,In stock
+129,Asus Laptop 645,Laptop,Asus,98824,"i9, 32GB RAM, RTX 4060, 1TB SSD",Value for money,In stock
+130,Dell Laptop 413,Laptop,Dell,146952,"Touchscreen, Backlit keyboard, Fingerprint sensor",Value for money,In stock
+131,Samsung Tablet 697,Tablet,Samsung,88620,"Apple M2 chip, 12.9-inch Retina display",Best seller,In stock
+132,Boat Speaker 176,Speaker,Boat,3256,"Bluetooth 5.0, 10W output, waterproof",New arrival,In stock
+133,Lenovo Laptop 727,Laptop,Lenovo,116107,"i3 11th Gen, 8GB RAM, 256GB SSD",Popular model,In stock
+134,Zebronics Speaker 857,Speaker,Zebronics,6318,"Smart assistant enabled, 360° sound",Limited stock,In stock
+135,Apple Laptop 632,Laptop,Apple,114116,"i9, 32GB RAM, RTX 4060, 1TB SSD",Customer favorite,In stock
+136,Realme Headphone 256,Headphone,Realme,5876,"Bluetooth 5.2, 40-hour battery",Popular model,In stock
+137,Apple Tablet 829,Tablet,Apple,33898,"8GB RAM, 128GB storage, 13MP rear camera",Limited stock,In stock
+138,Sony Speaker 201,Speaker,Sony,11296,"20W stereo output, splash resistant",New arrival,Out of stock
+139,Redmi Mobile 402,Mobile,Redmi,84315,"Snapdragon 7 Gen 1, 80W fast charging",Best seller,In stock
+140,Zebronics Headphone 635,Headphone,Zebronics,1688,"Dual pairing, Voice assistant compatible",Customer favorite,In stock
+141,Boat Headphone 187,Headphone,Boat,8448,"Lightweight, Sweat resistant",New arrival,Out of stock
+142,Dell Laptop 256,Laptop,Dell,136828,"i5 12th Gen, 8GB RAM, 512GB SSD",Popular model,Out of stock
+143,Realme Tablet 977,Tablet,Realme,83237,"8GB RAM, 128GB storage, 13MP rear camera",Value for money,In stock
+144,Zebronics Headphone 738,Headphone,Zebronics,1363,"Dual pairing, Voice assistant compatible",Limited stock,In stock
+145,Sony Headphone 518,Headphone,Sony,3520,"Lightweight, Sweat resistant",New arrival,Out of stock
+146,Sony Headphone 505,Headphone,Sony,2909,"Lightweight, Sweat resistant",New arrival,In stock
+147,Asus Laptop 897,Laptop,Asus,157907,"Ryzen 5, 8GB RAM, 512GB SSD",Popular model,In stock
+148,Lenovo Laptop 648,Laptop,Lenovo,48792,"i9, 32GB RAM, RTX 4060, 1TB SSD",Popular model,Out of stock
+149,Apple Tablet 524,Tablet,Apple,61941,"8GB RAM, 128GB storage, 13MP rear camera",New arrival,In stock
+150,Apple Laptop 453,Laptop,Apple,151484,"Touchscreen, Backlit keyboard, Fingerprint sensor",Limited stock,In stock
+151,Samsung Tablet 139,Tablet,Samsung,23786,"Helio G99, 10.5-inch LCD, long battery life",Value for money,Out of stock
+152,Realme Tablet 464,Tablet,Realme,65037,"Snapdragon 8 Gen 2, 11-inch AMOLED display",Popular model,In stock
+153,Samsung Mobile 637,Mobile,Samsung,42790,"6GB RAM, 64GB storage, 5000mAh battery",Customer favorite,In stock
+154,Vivo Mobile 508,Mobile,Vivo,39164,"Snapdragon 7 Gen 1, 80W fast charging",New arrival,In stock
+155,Vivo Mobile 357,Mobile,Vivo,56600,"90Hz display, AI camera, long battery life",Popular model,In stock
+156,Asus Laptop 902,Laptop,Asus,40477,"i7 13th Gen, 16GB RAM, 1TB SSD, RTX 3050",Limited stock,In stock
+157,Realme Tablet 543,Tablet,Realme,17523,"Helio G99, 10.5-inch LCD, long battery life",Value for money,In stock
+158,Sony Speaker 394,Speaker,Sony,10710,"Bluetooth 5.0, 10W output, waterproof",Popular model,Out of stock
+159,Sony Headphone 959,Headphone,Sony,8879,"Lightweight, Sweat resistant",Value for money,In stock
+160,Boat Headphone 227,Headphone,Boat,1747,"Noise cancellation, Foldable design",Value for money,In stock
+161,MSI Laptop 270,Laptop,MSI,107351,"Ryzen 5, 8GB RAM, 512GB SSD",High performance,In stock
+162,Sony Speaker 502,Speaker,Sony,11724,"Portable, 12-hour playtime, bass boost",Value for money,In stock
+163,Boat Headphone 562,Headphone,Boat,7864,"Dual pairing, Voice assistant compatible",High performance,In stock
+164,Lenovo Tablet 883,Tablet,Lenovo,87579,"S-Pen support, Dolby Atmos speakers",Customer favorite,Out of stock
+165,MSI Laptop 564,Laptop,MSI,95853,"Ryzen 5, 8GB RAM, 512GB SSD",High performance,In stock
+166,Oppo Mobile 660,Mobile,Oppo,54050,"90Hz display, AI camera, long battery life",Popular model,In stock
+167,Apple Tablet 365,Tablet,Apple,41111,"Helio G99, 10.5-inch LCD, long battery life",Customer favorite,In stock
+168,OnePlus Mobile 645,Mobile,OnePlus,66826,"6GB RAM, 64GB storage, 5000mAh battery",Customer favorite,In stock
+169,Oppo Mobile 758,Mobile,Oppo,30609,"12GB RAM, 256GB storage, 200MP camera",High performance,In stock
+170,Asus Laptop 991,Laptop,Asus,103283,"i3 11th Gen, 8GB RAM, 256GB SSD",Customer favorite,In stock
+171,Realme Tablet 570,Tablet,Realme,29948,"8GB RAM, 128GB storage, 13MP rear camera",Value for money,In stock
+172,Lenovo Laptop 848,Laptop,Lenovo,39051,"Ryzen 5, 8GB RAM, 512GB SSD",New arrival,In stock
+173,HP Laptop 904,Laptop,HP,82873,"i3 11th Gen, 8GB RAM, 256GB SSD",Value for money,Out of stock
+174,Redmi Mobile 437,Mobile,Redmi,84019,"8GB RAM, 128GB storage, 50MP camera",Value for money,In stock
+175,Samsung Tablet 434,Tablet,Samsung,93850,"Apple M2 chip, 12.9-inch Retina display",New arrival,In stock
+176,Zebronics Headphone 654,Headphone,Zebronics,3848,"Lightweight, Sweat resistant",Customer favorite,In stock
+177,OnePlus Mobile 846,Mobile,OnePlus,29909,"Snapdragon 7 Gen 1, 80W fast charging",New arrival,In stock
+178,Boat Headphone 971,Headphone,Boat,8941,"Lightweight, Sweat resistant",Customer favorite,In stock
+179,Samsung Tablet 563,Tablet,Samsung,76563,"8GB RAM, 128GB storage, 13MP rear camera",Best seller,In stock
+180,Apple Mobile 245,Mobile,Apple,31226,"12GB RAM, 256GB storage, 200MP camera",Value for money,In stock
+181,Boat Headphone 589,Headphone,Boat,5299,"Deep bass, Mic support, Fast charging",Best seller,In stock
+182,OnePlus Mobile 526,Mobile,OnePlus,73667,"Snapdragon 7 Gen 1, 80W fast charging",Customer favorite,In stock
+183,Realme Headphone 837,Headphone,Realme,9082,"Lightweight, Sweat resistant",High performance,Out of stock
+184,Realme Headphone 113,Headphone,Realme,6363,"Deep bass, Mic support, Fast charging",Customer favorite,Out of stock
+185,Lenovo Laptop 259,Laptop,Lenovo,70613,"i3 11th Gen, 8GB RAM, 256GB SSD",Customer favorite,In stock
+186,JBL Headphone 210,Headphone,JBL,5033,"Bluetooth 5.2, 40-hour battery",Value for money,In stock
+187,Dell Laptop 141,Laptop,Dell,99565,"Touchscreen, Backlit keyboard, Fingerprint sensor",High performance,In stock
+188,JBL Speaker 221,Speaker,JBL,9658,"20W stereo output, splash resistant",Best seller,Out of stock
+189,Lenovo Tablet 486,Tablet,Lenovo,24401,"S-Pen support, Dolby Atmos speakers",Best seller,In stock
+190,Apple Laptop 578,Laptop,Apple,148942,"i9, 32GB RAM, RTX 4060, 1TB SSD",Popular model,In stock
+191,JBL Headphone 985,Headphone,JBL,2927,"Deep bass, Mic support, Fast charging",Limited stock,In stock
+192,Apple Laptop 945,Laptop,Apple,86623,"i3 11th Gen, 8GB RAM, 256GB SSD",Value for money,In stock
+193,Lenovo Tablet 688,Tablet,Lenovo,58892,"Apple M2 chip, 12.9-inch Retina display",Best seller,In stock
+194,Redmi Mobile 483,Mobile,Redmi,41935,"8GB RAM, 128GB storage, 50MP camera",High performance,In stock
+195,JBL Headphone 791,Headphone,JBL,7889,"Bluetooth 5.2, 40-hour battery",Value for money,In stock
+196,Apple Mobile 792,Mobile,Apple,14854,"6GB RAM, 64GB storage, 5000mAh battery",Best seller,Out of stock
+197,Realme Tablet 115,Tablet,Realme,61487,"Helio G99, 10.5-inch LCD, long battery life",Popular model,In stock
+198,Sony Speaker 519,Speaker,Sony,12881,"Smart assistant enabled, 360° sound",New arrival,In stock
+199,Redmi Mobile 220,Mobile,Redmi,78528,"Snapdragon 7 Gen 1, 80W fast charging",Limited stock,In stock
+200,Boat Speaker 701,Speaker,Boat,1633,"Bluetooth 5.0, 10W output, waterproof",Value for money,In stock
+201,MSI Laptop 279,Laptop,MSI,47222,"Ryzen 5, 8GB RAM, 512GB SSD",High performance,In stock
+202,JBL Speaker 719,Speaker,JBL,9735,"20W stereo output, splash resistant",Popular model,In stock
+203,Lenovo Tablet 254,Tablet,Lenovo,90338,"8GB RAM, 128GB storage, 13MP rear camera",Popular model,In stock
+204,Apple Laptop 399,Laptop,Apple,64179,"i5 12th Gen, 8GB RAM, 512GB SSD",New arrival,In stock
+205,Samsung Mobile 542,Mobile,Samsung,71863,"12GB RAM, 256GB storage, 200MP camera",High performance,In stock
+206,Redmi Mobile 379,Mobile,Redmi,14506,"8GB RAM, 128GB storage, AMOLED display",High performance,In stock
+207,Dell Laptop 655,Laptop,Dell,38265,"Ryzen 5, 8GB RAM, 512GB SSD",Popular model,In stock
+208,JBL Speaker 224,Speaker,JBL,6874,"Bluetooth 5.0, 10W output, waterproof",New arrival,In stock
+209,JBL Headphone 186,Headphone,JBL,1562,"Deep bass, Mic support, Fast charging",Best seller,In stock
+210,Apple Mobile 386,Mobile,Apple,19299,"8GB RAM, 128GB storage, AMOLED display",Limited stock,Out of stock
+211,Zebronics Headphone 115,Headphone,Zebronics,3430,"Noise cancellation, Foldable design",Popular model,In stock
+212,Zebronics Speaker 564,Speaker,Zebronics,5704,"20W stereo output, splash resistant",High performance,Out of stock
+213,Redmi Mobile 751,Mobile,Redmi,48247,"8GB RAM, 128GB storage, 50MP camera",High performance,In stock
+214,Xiaomi Tablet 539,Tablet,Xiaomi,42590,"Snapdragon 8 Gen 2, 11-inch AMOLED display",Best seller,In stock
+215,Asus Laptop 575,Laptop,Asus,39257,"Ryzen 5, 8GB RAM, 512GB SSD",Customer favorite,In stock
+216,Realme Headphone 842,Headphone,Realme,5283,"Deep bass, Mic support, Fast charging",High performance,Out of stock
+217,Apple Tablet 863,Tablet,Apple,50876,"Snapdragon 8 Gen 2, 11-inch AMOLED display",Limited stock,In stock
+218,Lenovo Tablet 199,Tablet,Lenovo,63664,"S-Pen support, Dolby Atmos speakers",Limited stock,In stock
+219,Oppo Mobile 138,Mobile,Oppo,23749,"6GB RAM, 64GB storage, 5000mAh battery",Customer favorite,In stock
+220,Sony Headphone 687,Headphone,Sony,6823,"Dual pairing, Voice assistant compatible",Limited stock,In stock
+221,Lenovo Tablet 346,Tablet,Lenovo,15400,"Snapdragon 8 Gen 2, 11-inch AMOLED display",Best seller,In stock
+222,Zebronics Speaker 656,Speaker,Zebronics,11941,"Portable, 12-hour playtime, bass boost",Customer favorite,In stock
+223,Redmi Mobile 791,Mobile,Redmi,51599,"8GB RAM, 128GB storage, 50MP camera",Limited stock,Out of stock
+224,JBL Headphone 802,Headphone,JBL,6088,"Noise cancellation, Foldable design",Value for money,In stock
+225,Realme Mobile 394,Mobile,Realme,37411,"8GB RAM, 128GB storage, 50MP camera",High performance,In stock
+226,Asus Laptop 415,Laptop,Asus,76171,"Ryzen 5, 8GB RAM, 512GB SSD",New arrival,In stock
+227,Apple Mobile 985,Mobile,Apple,52548,"90Hz display, AI camera, long battery life",Best seller,In stock
+228,Zebronics Speaker 530,Speaker,Zebronics,14297,"Portable, 12-hour playtime, bass boost",Limited stock,In stock
+229,Xiaomi Tablet 913,Tablet,Xiaomi,52620,"8GB RAM, 128GB storage, 13MP rear camera",High performance,In stock
+230,Zebronics Speaker 452,Speaker,Zebronics,14201,"Smart assistant enabled, 360° sound",Best seller,In stock
+231,JBL Headphone 830,Headphone,JBL,1624,"Deep bass, Mic support, Fast charging",New arrival,In stock
+232,Zebronics Speaker 483,Speaker,Zebronics,11328,"Portable, 12-hour playtime, bass boost",Popular model,Out of stock
+233,Boat Speaker 690,Speaker,Boat,13674,"Portable, 12-hour playtime, bass boost",Best seller,In stock
+234,Realme Mobile 433,Mobile,Realme,24253,"8GB RAM, 128GB storage, 50MP camera",Best seller,In stock
+235,Realme Headphone 610,Headphone,Realme,1299,"Bluetooth 5.2, 40-hour battery",Best seller,In stock
+236,Zebronics Headphone 323,Headphone,Zebronics,1677,"Dual pairing, Voice assistant compatible",New arrival,In stock
+237,Boat Headphone 155,Headphone,Boat,9425,"Dual pairing, Voice assistant compatible",Customer favorite,In stock
+238,Zebronics Speaker 241,Speaker,Zebronics,5423,"Portable, 12-hour playtime, bass boost",Limited stock,In stock
+239,Redmi Mobile 271,Mobile,Redmi,68250,"6GB RAM, 64GB storage, 5000mAh battery",Limited stock,In stock
+240,OnePlus Mobile 259,Mobile,OnePlus,68005,"90Hz display, AI camera, long battery life",High performance,In stock
+241,Zebronics Headphone 387,Headphone,Zebronics,1070,"Noise cancellation, Foldable design",New arrival,In stock
+242,Realme Headphone 817,Headphone,Realme,6227,"Deep bass, Mic support, Fast charging",New arrival,In stock
+243,Apple Tablet 500,Tablet,Apple,76787,"Helio G99, 10.5-inch LCD, long battery life",High performance,In stock
+244,Zebronics Speaker 769,Speaker,Zebronics,8780,"Bluetooth 5.0, 10W output, waterproof",Customer favorite,In stock
+245,Zebronics Speaker 396,Speaker,Zebronics,5768,"20W stereo output, splash resistant",Best seller,Out of stock
+246,Realme Mobile 894,Mobile,Realme,48341,"8GB RAM, 128GB storage, AMOLED display",New arrival,In stock
+247,Apple Laptop 671,Laptop,Apple,35740,"i7 13th Gen, 16GB RAM, 1TB SSD, RTX 3050",Popular model,In stock
+248,Redmi Mobile 202,Mobile,Redmi,76767,"6GB RAM, 64GB storage, 5000mAh battery",New arrival,In stock
+249,Sony Speaker 100,Speaker,Sony,14526,"20W stereo output, splash resistant",Value for money,In stock
+250,JBL Headphone 188,Headphone,JBL,3464,"Deep bass, Mic support, Fast charging",New arrival,In stock
+251,Lenovo Laptop 163,Laptop,Lenovo,41932,"i5 12th Gen, 8GB RAM, 512GB SSD",Customer favorite,In stock
+252,Lenovo Tablet 527,Tablet,Lenovo,70896,"Helio G99, 10.5-inch LCD, long battery life",New arrival,In stock
+253,JBL Headphone 455,Headphone,JBL,6066,"Lightweight, Sweat resistant",Popular model,In stock
+254,Asus Laptop 513,Laptop,Asus,134547,"i3 11th Gen, 8GB RAM, 256GB SSD",Customer favorite,In stock
+255,Vivo Mobile 592,Mobile,Vivo,71988,"6GB RAM, 64GB storage, 5000mAh battery",Value for money,In stock
+256,MSI Laptop 113,Laptop,MSI,103994,"i7 13th Gen, 16GB RAM, 1TB SSD, RTX 3050",High performance,In stock
+257,HP Laptop 496,Laptop,HP,42725,"Ryzen 5, 8GB RAM, 512GB SSD",Limited stock,Out of stock
+258,Zebronics Headphone 343,Headphone,Zebronics,4149,"Noise cancellation, Foldable design",Customer favorite,Out of stock
+259,Samsung Tablet 270,Tablet,Samsung,57826,"S-Pen support, Dolby Atmos speakers",Popular model,In stock
+260,Realme Headphone 907,Headphone,Realme,5828,"Lightweight, Sweat resistant",New arrival,In stock
+261,Realme Tablet 805,Tablet,Realme,88709,"Helio G99, 10.5-inch LCD, long battery life",Value for money,In stock
+262,Dell Laptop 972,Laptop,Dell,39727,"i3 11th Gen, 8GB RAM, 256GB SSD",Best seller,In stock
+263,Redmi Mobile 435,Mobile,Redmi,44525,"12GB RAM, 256GB storage, 200MP camera",Customer favorite,In stock
+264,Apple Mobile 447,Mobile,Apple,31184,"12GB RAM, 256GB storage, 200MP camera",High performance,In stock
+265,Samsung Mobile 845,Mobile,Samsung,41097,"8GB RAM, 128GB storage, 50MP camera",Popular model,Out of stock
+266,Xiaomi Tablet 851,Tablet,Xiaomi,76577,"8GB RAM, 128GB storage, 13MP rear camera",Limited stock,In stock
+267,Xiaomi Tablet 647,Tablet,Xiaomi,37647,"Apple M2 chip, 12.9-inch Retina display",High performance,In stock
+268,Realme Tablet 455,Tablet,Realme,85371,"S-Pen support, Dolby Atmos speakers",High performance,In stock
+269,Zebronics Speaker 285,Speaker,Zebronics,14032,"20W stereo output, splash resistant",Customer favorite,In stock
+270,JBL Speaker 312,Speaker,JBL,8304,"Smart assistant enabled, 360° sound",Popular model,In stock
+271,Boat Speaker 684,Speaker,Boat,3453,"Bluetooth 5.0, 10W output, waterproof",Value for money,In stock
+272,Asus Laptop 695,Laptop,Asus,120582,"i5 12th Gen, 8GB RAM, 512GB SSD",Popular model,In stock
+273,Acer Laptop 597,Laptop,Acer,151887,"i9, 32GB RAM, RTX 4060, 1TB SSD",Customer favorite,Out of stock
+274,JBL Headphone 383,Headphone,JBL,9556,"Deep bass, Mic support, Fast charging",Limited stock,In stock
+275,HP Laptop 449,Laptop,HP,78302,"i3 11th Gen, 8GB RAM, 256GB SSD",High performance,In stock
+276,Zebronics Speaker 771,Speaker,Zebronics,3525,"Smart assistant enabled, 360° sound",High performance,In stock
+277,Samsung Tablet 226,Tablet,Samsung,19105,"Apple M2 chip, 12.9-inch Retina display",Customer favorite,In stock
+278,Boat Speaker 362,Speaker,Boat,14829,"Smart assistant enabled, 360° sound",High performance,In stock
+279,Realme Headphone 744,Headphone,Realme,6789,"Lightweight, Sweat resistant",Best seller,In stock
+280,Vivo Mobile 104,Mobile,Vivo,21451,"8GB RAM, 128GB storage, 50MP camera",High performance,In stock
+281,Sony Headphone 401,Headphone,Sony,7645,"Deep bass, Mic support, Fast charging",Popular model,In stock
+282,Dell Laptop 734,Laptop,Dell,58284,"Touchscreen, Backlit keyboard, Fingerprint sensor",Value for money,In stock
+283,Sony Speaker 194,Speaker,Sony,2613,"Smart assistant enabled, 360° sound",Value for money,Out of stock
+284,Apple Laptop 625,Laptop,Apple,80517,"i7 13th Gen, 16GB RAM, 1TB SSD, RTX 3050",Value for money,In stock
+285,Zebronics Headphone 125,Headphone,Zebronics,4722,"Dual pairing, Voice assistant compatible",Value for money,In stock
+286,Sony Headphone 192,Headphone,Sony,6564,"Dual pairing, Voice assistant compatible",Limited stock,In stock
+287,Zebronics Speaker 632,Speaker,Zebronics,10615,"Smart assistant enabled, 360° sound",Value for money,In stock
+288,Sony Speaker 335,Speaker,Sony,13260,"Bluetooth 5.0, 10W output, waterproof",Customer favorite,In stock
+289,Samsung Tablet 253,Tablet,Samsung,73172,"Snapdragon 8 Gen 2, 11-inch AMOLED display",Popular model,Out of stock
+290,Oppo Mobile 465,Mobile,Oppo,38222,"90Hz display, AI camera, long battery life",Limited stock,Out of stock
+291,Boat Speaker 852,Speaker,Boat,7761,"Portable, 12-hour playtime, bass boost",Popular model,In stock
+292,Boat Headphone 410,Headphone,Boat,2955,"Noise cancellation, Foldable design",New arrival,In stock
+293,MSI Laptop 839,Laptop,MSI,81803,"i5 12th Gen, 8GB RAM, 512GB SSD",New arrival,In stock
+294,Redmi Mobile 270,Mobile,Redmi,61866,"12GB RAM, 256GB storage, 200MP camera",Popular model,In stock
+295,Sony Speaker 100,Speaker,Sony,6757,"Bluetooth 5.0, 10W output, waterproof",High performance,In stock
+296,Sony Headphone 760,Headphone,Sony,3387,"Deep bass, Mic support, Fast charging",Best seller,In stock
+297,Sony Speaker 773,Speaker,Sony,2816,"Smart assistant enabled, 360° sound",Value for money,Out of stock
+298,Apple Tablet 505,Tablet,Apple,43692,"Apple M2 chip, 12.9-inch Retina display",New arrival,In stock
+299,Xiaomi Tablet 554,Tablet,Xiaomi,66678,"Apple M2 chip, 12.9-inch Retina display",High performance,In stock
+300,Oppo Mobile 618,Mobile,Oppo,12723,"12GB RAM, 256GB storage, 200MP camera",High performance,In stock
